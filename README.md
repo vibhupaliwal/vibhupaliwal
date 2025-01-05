@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vibhu Paliwal</h1>
-<h3 align="center">A passionate engineering student from India</h3>
+<h1 align="center">Hi 👋, I'm Vibhu Paliwal.</h1>
+<h3 align="center">A passionate engineering student with a major in Electrical and Electonics and minor in Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhupaliwal&label=Profile%20views&color=0e75b6&style=flat" alt="vibhupaliwal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhupaliwal" alt="vibhupaliwal" /></a> </p>
 
-- 🔭 I’m currently working on **IOT**
+- 🔭 I’m currently working on **Web-developement**
 
 - 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **html, css, js**
+- 💬 Ask me about **Python, html, css, js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
